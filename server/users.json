@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "stjepan123",
+      "password": "stjepan"
+    },
+    {
+      "id": 2,
+      "email": "matko123",
+      "password": "matko"
+    },
+    {
+      "id": 3,
+      "email": "ivan123",
+      "password": "ivan"
+    },
+    {
+      "id": 4,
+      "email": "marko123",
+      "password": "marko"
+    },
+    {
+      "id": 5,
+      "email": "anamarija123",
+      "password": "anamarija"
+    },
+    {
+      "id": 6,
+      "email": "tihomir123",
+      "password": "tihomir"
+    },
+    {
+      "email": "matko",
+      "password": "matko",
+      "id": 7
+    },
+    {
+      "email": "matko",
+      "password": "matko",
+      "id": 8
+    }
+  ]
+}
